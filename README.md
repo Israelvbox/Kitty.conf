@@ -3,7 +3,7 @@
 
 ```shell
 git clone https://github.com/Israelvbox/Kitty.conf
-cd Kitty.conf && sudo cp kitty.con ~/.config/kitty/kitty.conf
+cd Kitty.conf && sudo cp kitty.conf ~/.config/kitty/kitty.conf
 sudo rm -r ~/Kitty.conf
 ```
 
