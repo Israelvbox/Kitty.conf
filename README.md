@@ -9,5 +9,5 @@ sudo rm -r ~/Kitty.conf
 ```
 
 ## Overview
-![image](https://raw.githubusercontent.com/Israelvbox/Kitty.conf/main/overview/overview.png)
+![image](https://github.com/Israelvbox/Kitty.conf/blob/main/overview/Captura%20desde%202024-04-28%2014-18-05.png)
 
